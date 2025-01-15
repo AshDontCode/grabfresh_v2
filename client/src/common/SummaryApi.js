@@ -1,4 +1,6 @@
 export const baseURL = "https://grabfresh-v2-cjbz.vercel.app"
+// export const baseURL = "http://localhost:8080"
+
 
 const SummaryApi = {
     register : {
